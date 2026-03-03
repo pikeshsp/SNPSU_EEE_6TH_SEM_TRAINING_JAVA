@@ -1,0 +1,19 @@
+package Nested;
+
+public class NestedIfelseExampe {
+    public static void main(String[] args) {
+        int a = 10;
+        if (a>5){
+            if(a<15){
+                System.out.println("SNPSU");
+            }
+            else {
+                System.out.println("ECE");
+            }
+        }
+        else {
+            System.out.println("EEE");
+        }
+
+    }
+}
