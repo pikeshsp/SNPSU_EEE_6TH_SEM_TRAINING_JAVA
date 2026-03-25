@@ -1,4 +1,4 @@
-package Array;
+package SearchingSorting;
 
 public class SelectionSort {
     static void SelectionSort(int[] arr){
